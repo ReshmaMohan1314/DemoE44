@@ -9,8 +9,8 @@
 	</groups>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Demo.DemoTest"/>
-      <class name="Demo.Demo1Test"/>
+      <class name="Demo.Demo2Test"/>
+      <class name="Demo.Demo3Test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
