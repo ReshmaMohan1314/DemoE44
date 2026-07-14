@@ -5,11 +5,12 @@ import org.testng.annotations.Test;
 public class Demo1Test 
 {
 	
-	@Test(groups = "regression")
+	@Test(groups="smoke")
 	public void movie1Test()
 	{
 		
 		System.out.println("Ghilli");
+		System.out.println("Leo");
 	}
 	
 	
